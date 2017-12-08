@@ -1,0 +1,63 @@
+c:\users\asus\documents\visual studio 2013\Projects\AngOS\AngOS\bin\Debug\AngOS.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\AngOS\AngOS\bin\Debug\AngOS.exe
+c:\users\asus\documents\visual studio 2013\Projects\AngOS\AngOS\bin\Debug\AngOS.pdb
+c:\users\asus\documents\visual studio 2013\Projects\AngOS\AngOS\obj\Debug\AngOS.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2013\Projects\AngOS\AngOS\obj\Debug\AngOS.Form1.resources
+c:\users\asus\documents\visual studio 2013\Projects\AngOS\AngOS\obj\Debug\AngOS.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2013\Projects\AngOS\AngOS\obj\Debug\AngOS.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2013\Projects\AngOS\AngOS\obj\Debug\AngOS.exe
+c:\users\asus\documents\visual studio 2013\Projects\AngOS\AngOS\obj\Debug\AngOS.pdb
+c:\users\asus\documents\visual studio 2013\Projects\AngOS\AngOS\obj\Debug\AngOS.Form2.resources
+c:\users\asus\documents\visual studio 2013\Projects\AngOS\AngOS\obj\Debug\AngOS.Form4.resources
+c:\users\asus\documents\visual studio 2013\Projects\AngOS\AngOS\obj\Debug\AngOS.Form3.resources
+c:\users\asus\documents\visual studio 2013\Projects\AngOS\AngOS\obj\Debug\AngOS.Form5.resources
+C:\Users\HP\Downloads\Compressed\AngOS\AngOS\bin\Debug\AngOS.exe.config
+C:\Users\HP\Downloads\Compressed\AngOS\AngOS\obj\Debug\AngOS.exe
+C:\Users\HP\Downloads\Compressed\AngOS\AngOS\obj\Debug\AngOS.pdb
+C:\Users\HP\Downloads\Compressed\AngOS\AngOS\bin\Debug\AngOS.exe
+C:\Users\HP\Downloads\Compressed\AngOS\AngOS\bin\Debug\AngOS.pdb
+C:\Users\HP\Downloads\Compressed\AngOS\AngOS\obj\Debug\AngOS.csprojResolveAssemblyReference.cache
+C:\Users\HP\Downloads\Compressed\AngOS\AngOS\obj\Debug\AngOS.Form1.resources
+C:\Users\HP\Downloads\Compressed\AngOS\AngOS\obj\Debug\AngOS.Form2.resources
+C:\Users\HP\Downloads\Compressed\AngOS\AngOS\obj\Debug\AngOS.Form3.resources
+C:\Users\HP\Downloads\Compressed\AngOS\AngOS\obj\Debug\AngOS.Form4.resources
+C:\Users\HP\Downloads\Compressed\AngOS\AngOS\obj\Debug\AngOS.Form5.resources
+C:\Users\HP\Downloads\Compressed\AngOS\AngOS\obj\Debug\AngOS.Properties.Resources.resources
+C:\Users\HP\Downloads\Compressed\AngOS\AngOS\obj\Debug\AngOS.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\AngOS\AngOS\bin\Debug\AngOS.exe.config
+C:\Users\HP\Desktop\AngOS\AngOS\obj\Debug\AngOS.exe
+C:\Users\HP\Desktop\AngOS\AngOS\obj\Debug\AngOS.pdb
+C:\Users\HP\Desktop\AngOS\AngOS\bin\Debug\AngOS.exe
+C:\Users\HP\Desktop\AngOS\AngOS\obj\Debug\AngOS.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\AngOS\AngOS\obj\Debug\AngOS.Form1.resources
+C:\Users\HP\Desktop\AngOS\AngOS\obj\Debug\AngOS.Form2.resources
+C:\Users\HP\Desktop\AngOS\AngOS\obj\Debug\AngOS.Form3.resources
+C:\Users\HP\Desktop\AngOS\AngOS\obj\Debug\AngOS.Form4.resources
+C:\Users\HP\Desktop\AngOS\AngOS\obj\Debug\AngOS.Form5.resources
+C:\Users\HP\Desktop\AngOS\AngOS\obj\Debug\AngOS.Properties.Resources.resources
+C:\Users\HP\Desktop\AngOS\AngOS\obj\Debug\AngOS.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\AngOS\AngOS\bin\Debug\AngOS.pdb
+C:\Users\HP\Documents\SCHOOL\AngOS\AngOS\bin\Debug\AngOS.exe.config
+C:\Users\HP\Documents\SCHOOL\AngOS\AngOS\obj\Debug\AngOS.exe
+C:\Users\HP\Documents\SCHOOL\AngOS\AngOS\obj\Debug\AngOS.pdb
+C:\Users\HP\Documents\SCHOOL\AngOS\AngOS\bin\Debug\AngOS.exe
+C:\Users\HP\Documents\SCHOOL\AngOS\AngOS\bin\Debug\AngOS.pdb
+C:\Users\HP\Documents\SCHOOL\AngOS\AngOS\obj\Debug\AngOS.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\SCHOOL\AngOS\AngOS\obj\Debug\AngOS.Form1.resources
+C:\Users\HP\Documents\SCHOOL\AngOS\AngOS\obj\Debug\AngOS.Form2.resources
+C:\Users\HP\Documents\SCHOOL\AngOS\AngOS\obj\Debug\AngOS.Form3.resources
+C:\Users\HP\Documents\SCHOOL\AngOS\AngOS\obj\Debug\AngOS.Form4.resources
+C:\Users\HP\Documents\SCHOOL\AngOS\AngOS\obj\Debug\AngOS.Form5.resources
+C:\Users\HP\Documents\SCHOOL\AngOS\AngOS\obj\Debug\AngOS.Properties.Resources.resources
+C:\Users\HP\Documents\SCHOOL\AngOS\AngOS\obj\Debug\AngOS.csproj.GenerateResource.Cache
+C:\Users\HP\Documents\SCHOOL\osupdated\AngOS\bin\Debug\AngOS.exe.config
+C:\Users\HP\Documents\SCHOOL\osupdated\AngOS\obj\Debug\AngOS.exe
+C:\Users\HP\Documents\SCHOOL\osupdated\AngOS\obj\Debug\AngOS.pdb
+C:\Users\HP\Documents\SCHOOL\osupdated\AngOS\obj\Debug\AngOS.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\SCHOOL\osupdated\AngOS\obj\Debug\AngOS.Form1.resources
+C:\Users\HP\Documents\SCHOOL\osupdated\AngOS\obj\Debug\AngOS.Form2.resources
+C:\Users\HP\Documents\SCHOOL\osupdated\AngOS\obj\Debug\AngOS.Form3.resources
+C:\Users\HP\Documents\SCHOOL\osupdated\AngOS\obj\Debug\AngOS.Properties.Resources.resources
+C:\Users\HP\Documents\SCHOOL\osupdated\AngOS\obj\Debug\AngOS.csproj.GenerateResource.Cache
+C:\Users\HP\Documents\SCHOOL\osupdated\AngOS\bin\Debug\AngOS.exe
+C:\Users\HP\Documents\SCHOOL\osupdated\AngOS\bin\Debug\AngOS.pdb
